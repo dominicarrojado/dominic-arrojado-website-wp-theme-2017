@@ -29,7 +29,7 @@ var MobileSidebar = {
     },
 
     show: function() {
-        const self = this;
+        var self = this;
 
         self.sidebar.style.display = 'block';
         document.body.classList.add('is-mobile-overlay-active');
@@ -40,7 +40,7 @@ var MobileSidebar = {
     },
 
     hide: function() {
-        const self = this;
+        var self = this;
 
         self.sidebar.classList.remove('show');
 
@@ -92,4 +92,3 @@ EVENT LISTENERS
 window.onscroll = function windowOnScroll() {
     StickyHeader.check();
 };
-

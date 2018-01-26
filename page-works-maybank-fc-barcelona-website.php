@@ -18,8 +18,6 @@ Template Name: Works - Maybank FC Barcelona Website
         <meta name="distribution" content="global" />
         <meta name="rating" content="general" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
-        <meta name="robots" content="noindex">
-        <meta name="googlebot" content="noindex">
         <link rel="stylesheet" href="<?php echo CSS; ?>/maybank/fc-barcelona/bootstrap.min.css">
         <link rel="stylesheet" href="<?php echo CSS; ?>/maybank/fc-barcelona/main.min.css">
     </head>
@@ -33,7 +31,7 @@ Template Name: Works - Maybank FC Barcelona Website
             <h1 class="font-weight-bold">
                 <span>Welcome to the world of</span>
                 Maybank and FC Barcelona
-                <span>Discover the card that rewards you in points and rebates</span>
+                <span>World-class club. First-class rewards. One card.</span>
             </h1>
             <div class="mb-5">
                 <button onclick="scrollToElement(event, '#headerMain', false)" class="btn-maybank">
@@ -100,20 +98,15 @@ Template Name: Works - Maybank FC Barcelona Website
     <div style="background-image: url('<?php echo IMG; ?>/maybank/fc-barcelona/home-bg-main.jpg');" class="home-main px-3 py-5 bg-black">
         <div id="homeCard" class="home-card home-panel container pt-4 pt-sm-5 pb-5 px-0">
             <h2 class="mx-auto mb-3 mb-lg-5 text-yellow font-weight-bold text-uppercase text-center">
-                Maybank FC Barcelona Visa Signature Credit Card
+                Maybank FC Barcelona Visa Signature Card
             </h2>
             <div class="row">
-                <div class="col-lg-7 py-3">
-                    <p class="intro mb-5 text-center text-lg-left">
-                        Introducing a first-class card worthy of a world-class club.
-                        Enjoy exclusive privileges, lifestyle rewards and rebated
-                        throughout the year.
+                <div class="col-lg-6 col-xl-7 py-3">
+                    <p class="intro mb-5 text-lg-justify">
+                        Introducing a first-class card in partnership with a world-class club. Enjoy exclusive privileges, lifestyle rewards and rebates throughout the year.
                     </p>
-                    <div class="subtitle mb-3 text-yellow font-weight-bold text-uppercase">
-                        Key information
-                    </div>
-                    <div class="row no-gutters">
-                        <div class="col-md-5">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-12 col-xl-5">
                             <div class="d-flex mb-3">
                                 <div class="mr-3">
                                     <img src="<?php echo IMG; ?>/maybank/fc-barcelona/home-key-info-1.png" alt="Unlimited 1.6% Cash Rebate">
@@ -131,7 +124,7 @@ Template Name: Works - Maybank FC Barcelona Website
                                 </div>
                                 <div class="my-auto">
                                     for all foreign
-                                    <br class="d-none d-lg-inline">
+                                    <br class="d-none d-xl-inline">
                                     transactions
                                 </div>
                             </div>
@@ -140,17 +133,17 @@ Template Name: Works - Maybank FC Barcelona Website
                                     <img src="<?php echo IMG; ?>/maybank/fc-barcelona/home-key-info-3.png" alt="Trip for 2">
                                 </div>
                                 <div class="my-auto">
-                                    Stand a chance to win a trip for 2 to catch FC Barcelona LIVE every football season*
+                                    Stand a chance to win a trip for 2 to watch FC Barcelona LIVE every football season*
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-7 pl-md-4">
+                        <div class="col-md-6 col-lg-12 col-xl-7">
                             <div class="d-flex mb-3">
                                 <div class="mr-3">
                                     <img src="<?php echo IMG; ?>/maybank/fc-barcelona/home-key-info-4.png" alt="10% Discount">
                                 </div>
                                 <div class="fc-store my-auto">
-                                    on FC Barcelona online store
+                                    on the FC Barcelona Official Online Store Asia Pacific
                                     <br />
                                     <small>
                                         (<a href="https://www.fcbarcelonastoreasia.com" target="_blank">www.fcbarcelonastoreasia.com</a>)
@@ -170,10 +163,10 @@ Template Name: Works - Maybank FC Barcelona Website
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 d-flex">
+                <div class="col-lg-6 col-xl-5 d-flex">
                     <div class="m-auto text-center">
                         <div class="mb-5">
-                            <img src="<?php echo IMG; ?>/maybank/fc-barcelona/home-maybank-fc-barcelona-card.jpg" alt="Maybank FC Barcelona Visa Signature Credit Card" class="img-fluid">
+                            <img src="<?php echo IMG; ?>/maybank/fc-barcelona/home-maybank-fc-barcelona-card.jpg" alt="Maybank FC Barcelona Visa Signature Card" class="img-fluid">
                         </div>
                         <div>
                             <a href="" class="btn-maybank">
@@ -194,13 +187,13 @@ Template Name: Works - Maybank FC Barcelona Website
                 </div>
                 <div class="col-lg-7 px-0">
                     <h2 class="home-panel-title mb-4 text-yellow font-weight-normal text-center text-lg-left">
-                        Win a trip to catch FC Barcelona
+                        Win a trip to watch FC Barcelona
                         <br class="d-none d-lg-inline" />
                         LIVE in Camp Nou in the 2018/2019 season
                     </h2>
                     <div class="body">
                         <p class="mb-4">
-                            From 18 January to 30 June 2018, simply spend S$50 to be in running to win the ultimate Camp Nou Experience. Prizes include a trip for 2 to catch FC Barcelona LIVE in Camp Nou in the 2018/2019 season including economy flight tickets with airport and hotel and a 3 Days 2 Nights (twin sharing) stay in a 3-star hotel. The more you spend, the more chances you get so start charging to your Maybank FC Barcelona Visa Signature Card now!
+                            From 18 January to 30 June 2018, simply spend S$50 to be in the running to win the ultimate Camp Nou Experience. Prizes include a trip for 2 to watch FC Barcelona LIVE in Camp Nou during the 2018/2019 season, including return economy flight tickets, return airport transfers and a 3 Days/2 Nights (twin sharing) stay in a 3-star hotel. The more you spend, the more chances you get so start charging to your Maybank FC Barcelona Visa Signature Card now!
                         </p>
                         <div class="text-yellow font-weight-bold text-uppercase">
                             Key information
@@ -210,18 +203,18 @@ Template Name: Works - Maybank FC Barcelona Website
                                 Campaign Period: 18 January to 30 June 2018
                             </li>
                             <li>
-                                Valid for all Singapore-issued Maybank FC Barcelona Visa Signature Credit Card
+                                Valid for all Singapore-issued Maybank FC Barcelona Visa Signature Card
                             </li>
                             <li>
-                                5 additional chances for every accumulated $50 of local currency transactions
+                                5 chances for every accumulated $50 of local currency transactions
                             </li>
                             <li>
-                                10 additional chances for every accumulated $50 equivalent of foreign currency transactions
+                                10 chances for every accumulated $50 equivalent of foreign currency transactions
                             </li>
                         </ul>
                         <div>
-                            <a href="" target="_blank" class="font-italic">
-                                Terms and Conditions apply.
+                            <a href="" target="_blank" class="text-yellow">
+                                <u>Terms and Conditions apply.</u>
                             </a>
                         </div>
                     </div>
@@ -236,42 +229,42 @@ Template Name: Works - Maybank FC Barcelona Website
                         Receive a limited edition Cap and Lanyard
                     </h2>
                     <div class="body">
-                        <p class="mb-0">
+                        <p class="mb-4">
                             First 100 applicants from each selected Maybank Branches will receive a limited edition Maybank FC Barcelona Cap and Lanyard. Applicable only for the following Maybank Branches:
                         </p>
                         <div class="row no-gutters mb-4">
-                            <div class="col-sm-5 col-md-4">
+                            <div class="col-sm-5 col-md-6">
                                 <ul class="list-maybank list-unstyled mb-0">
                                     <li>
-                                        Ang Mo Kio
+                                        Maybank@AMK
                                     </li>
                                     <li>
-                                        HDB Hub
+                                        Maybank@HDBHub
                                     </li>
                                     <li>
-                                        Holland Village
+                                        Maybank@HollandV
                                     </li>
                                     <li>
-                                        Jurong Point
+                                        Maybank@JurongPoint
                                     </li>
                                     <li>
-                                        Marine Parade
+                                        Maybank@MarineParade
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-sm-5 col-md-4">
+                            <div class="col-sm-5 col-md-6">
                                 <ul class="list-maybank list-unstyled mb-0">
                                     <li>
-                                        Maybank Tower
+                                        Maybank@Maybank Tower
                                     </li>
                                     <li>
-                                        Nex
+                                        Maybank@nex
                                     </li>
                                     <li>
-                                        Tampines
+                                        Maybank@Tampines
                                     </li>
                                     <li>
-                                        Waterway Point
+                                        Maybank@WaterwayPoint
                                     </li>
                                 </ul>
                             </div>
@@ -293,16 +286,16 @@ Template Name: Works - Maybank FC Barcelona Website
                     </h3>
                     <ul class="list-maybank list-unstyled">
                         <li>
-                            Unlimited 1.6% cash rebate on all local spend with no cap and no minimum spend
+                            1.6% unlimited cash rebate on all local spend with no cap and no minimum spend
                         </li>
                         <li>
                             2X TREATS Points with every dollar spent on foreign currency transactions
                         </li>
                         <li>
-                            Win a trip to watch FC Barcelona LIVE in Camp Nou every football season
+                            Stand a chance to win a trip for 2 to watch FC Barcelona LIVE every football season. <a href="" target="_blank"><u>Terms and Conditions apply.</u></a>
                         </li>
                         <li>
-                            10% Discount on the Asia Pacific FC Barcelona Online Store (<a href="https://www.fcbarcelonastoreasia.com/" target="_blank">fcbarcelonastoreasia.com</a>)
+                            10% Discount on the FC Barcelona Official Online Store Asia Pacific (<a href="https://www.fcbarcelonastoreasia.com/" target="_blank">fcbarcelonastoreasia.com</a>)
                         </li>
                         <li>
                             5% Discount at the FCBotiga official store in Camp Nou
@@ -315,13 +308,13 @@ Template Name: Works - Maybank FC Barcelona Website
                     </h3>
                     <ul class="list-maybank list-unstyled">
                         <li>
-                            With the flexibility of TREATS Points, <u>redeem a host of privileges</u> such as shopping and dining vouchers, cash credits and more, other than KrisFlyer Miles or AsiaMiles.
+                            With the flexibility of TREATS Points, <a href="" target="_blank"><u>redeem a host of privileges</u></a> such as shopping and dining vouchers, cash credits and more, other than KrisFlyer Miles or AsiaMiles.
                         </li>
                         <li>
                             Enjoy a host of attractive privileges in Singapore, Malaysia, Indonesia and the Philippines.
                         </li>
                         <li>
-                            Access Maybank Card's suite of <u>financial services</u> including interest-free instalment payment plans such as <a href="" target="_blank"><u>EzyPay</u></a>, <a href="" target="_blank"><u>FlexiPay</u></a> and more.
+                            Access Maybank Card's suite of <a href="" target="_blank"><u>financial services</u></a> including interest-free instalment payment plans such as <a href="" target="_blank"><u>EzyPay</u></a>, <a href="" target="_blank"><u>FlexiPay</u></a> and more.
                         </li>
                         <li>
                             <a href="" target="_blank"><u>Maybank Visa Money Transfer</u></a> allows you to transfer funds from your Card to any Visa Card overseas, at attractive rates.
@@ -425,7 +418,7 @@ Template Name: Works - Maybank FC Barcelona Website
                                 1973: Cruyff Joined FC Barcelona
                             </div>
                             <p>
-                                Cruyff became the leader of a talented team, he demonstrated an intelligent style of play and superb technique.
+                                Johan Cruyff became the leader of a talented team and demonstrated an intelligent style of play and superb technique.
                                 <br />
                                 The Dutch star went down in history for some unforgettable moments, like his memorable goal against Atlético de Madrid.
                             </p>
@@ -478,7 +471,7 @@ Template Name: Works - Maybank FC Barcelona Website
                                 2008: Josep Guardiola Became The Manager
                             </div>
                             <p>
-                                It was the years that the team produced an amazing string of major titles, including two Champions Leagues, three Spanish Leagues and two Clubs World Cup. 2009 was the extraordinary year when FC Barcelona won all six major trophies, thereby completing an "unprecedented sextuple".
+                                Through the years, the team produced an amazing string of major titles, including two Champions Leagues, three Spanish Leagues and two Clubs World Cup. 2009 was the extraordinary year when FC Barcelona won all six major trophies, thereby completing an "unprecedented sextuple".
                             </p>
                         </div>
                     </div>
@@ -523,12 +516,9 @@ Template Name: Works - Maybank FC Barcelona Website
     </div>
 
     <footer class="footer-main py-5 px-1 text-center">
-        Copyright © 2018 | Maybank FC Barcelona Visa Signature
+        Copyright © 2018 | Maybank FC Barcelona Visa Signature Card<br />
         <br />
-        <br />
-        <a href="" target="_blank">
-            Terms and Conditions
-        </a>
+        <a href="" target="" class="text-yellow">Maybank FC Barcelona Visa Signature Terms and Conditions</a> | <a href="" target="_blank" class="text-yellow">Maybank Credit Card Terms and Conditions</a>
     </footer>
 
     <script src="<?php echo JS; ?>/maybank/fc-barcelona/jquery.min.js"></script>

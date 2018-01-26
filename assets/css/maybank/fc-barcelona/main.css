@@ -391,17 +391,9 @@ HOME
     max-width: 450px;
 }
 
-.home-card .subtitle {
-    font-size: 22px;
-}
-
-.home-card .fc-store {
-    line-height: .9;
-}
-
 .home-card .fc-store > small {
     color: #ffffff;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .home-card .fc-store > small > a {
