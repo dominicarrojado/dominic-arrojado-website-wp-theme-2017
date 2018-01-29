@@ -11,7 +11,7 @@ Unzip it and rename the root folder to `dominic-arrojado-website`.
 Clone the theme:
 
 ```bash
-cd dominic-arrojado/wp-content/themes
+cd dominic-arrojado-website/wp-content/themes
 git clone https://github.com/mroftalp/dominic-arrojado-website-wp-theme-2017.git dominic-arrojado
 ```
 
