@@ -340,7 +340,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="/works-axa-smart-home-edm" target="_blank" class="d-inline-block mb-3">
+                    <a href="/works-axa-smarthome-edm" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-axa-smarthome-edm-2017.jpg" alt="AXA SmartHome EDM 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -406,7 +406,7 @@ get_header('index'); ?>
             </p>
             <div class="row justify-content-center">
                 <div class="col-lg-9 col-xl-8 mb-4">
-                    <?php echo do_shortcode('[contact-form-7 id="324" title="Contact Form"]'); ?>
+                    <?php echo do_shortcode('[contact-form-7 id="312" title="Contact Form"]'); ?>
                 </div>
             </div>
         </div>

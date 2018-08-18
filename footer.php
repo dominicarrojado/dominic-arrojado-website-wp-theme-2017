@@ -21,7 +21,7 @@
             </a>
         </div>
         <div class="text-default">
-            © Dominic Arrojado 2018
+            © Dominic Arrojado <?php echo date('Y'); ?>
         </div>
     </div>
 </footer>

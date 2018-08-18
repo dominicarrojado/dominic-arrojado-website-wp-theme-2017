@@ -1,7 +1,7 @@
 <?php
 
 /*
-Template Name: AXA Shield EDM
+Template Name: Works - AXA Shield EDM
 */
 
 ?>

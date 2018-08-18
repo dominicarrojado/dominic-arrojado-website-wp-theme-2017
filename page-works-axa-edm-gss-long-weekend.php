@@ -271,5 +271,3 @@ Template Name: Works - AXA GSS Long Weekend EDM
 
     </body>
     </html>
-
-<?php

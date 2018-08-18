@@ -1,7 +1,7 @@
 <?php
 
 /*
-Template Name: AXA Mother's Day EDM
+Template Name: Works - AXA Mother's Day EDM
 */
 
 ?>
