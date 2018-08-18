@@ -119,7 +119,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://www.k1664.sg" target="_blank" class="d-inline-block mb-3">
+                    <a href="/works-kronenbourg-1664-website" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-kronenbourg-website-2017.jpg" alt="Kronenbourg Website 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
