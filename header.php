@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
+    <?php include_once('analytics-tracking.php') ?>
+
     <title><?php bloginfo('name');?></title>
     <meta name="description" content="<?php bloginfo('description'); ?>">
 
@@ -17,5 +19,3 @@
 </head>
 
 <body <?php body_class(); ?>>
-
-<?php include_once('analytics-tracking.php') ?>
