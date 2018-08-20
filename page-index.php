@@ -37,7 +37,7 @@ get_header('index'); ?>
                         My name is Dominic Arrojado, I'm a web developer. I like everything about web development. During my <a href="http://www.treston.edu.ph" target="_blank">college</a> days, I have developed a pizza delivery website, a group chat, and a school enrollment system. That's when I realized I really like building websites and web applications.
                     </p>
                     <p>
-                        I'm currently a Senior Full Stack Developer (2017) at <a href="https://www.hashtag-interactive.com" target="_blank">Hashtag Interactive</a>, former Full Stack Developer (2016) and Web Developer (2015). I have built a large web application (Qwerk) based on the company's interest. Aside from that, I also develop web applications, WordPress websites, EDMs, and microsites. Check out my work below.
+                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer</a> as a Web Developer. I was previously working at <a href="https://www.hashtag-interactive.com" target="_blank">Hashtag Interactive</a> as the Senior Full Stack Developer where I have built a large web application (Qwerk) based on the company's interest. I develop web applications, WordPress websites, EDMs, and microsites. Check out my work below.
                     </p>
                 </div>
             </div>
@@ -53,6 +53,19 @@ get_header('index'); ?>
                 A bunch of things I've done so far.
             </p>
             <div id="homeWork" class="row justify-content-center collapsed">
+                <div class="work-item col-lg-6 mb-5">
+                    <a href="https://razerid.razer.com" target="_blank" class="d-inline-block mb-3">
+                        <img src="<?php echo IMG; ?>/work-razer-id-website.jpg" alt="Razer ID Website" class="img-fluid">
+                    </a>
+                    <div class="px-sm-5">
+                        <h3 class="font-weight-bold">
+                            Razer ID
+                        </h3>
+                        <p class="text-default">
+                            Profile management and authentication service tool for all Razer services.
+                        </p>
+                    </div>
+                </div>
                 <div class="work-item col-lg-6 mb-5">
                     <a title="Not available to public yet." data-toggle="tooltip" data-placement="top" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-qwerk-website.jpg" alt="Qwerk Website" class="img-fluid">
