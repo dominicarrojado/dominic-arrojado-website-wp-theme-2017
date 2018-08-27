@@ -184,7 +184,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://adac2017.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="http://adac2017.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-cnb-anti-drug-abuse-campaign-2017.jpg" alt="CNB: Anti Drug Abuse Campaign 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
