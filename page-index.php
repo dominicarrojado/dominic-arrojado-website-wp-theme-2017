@@ -37,7 +37,7 @@ get_header('index'); ?>
                         My name is Dominic Arrojado, I'm a web developer. I like everything about web development. During my <a href="http://www.treston.edu.ph" target="_blank">college</a> days, I have developed a pizza delivery website, a group chat, and a school enrollment system. That's when I realized I really like building websites and web applications.
                     </p>
                     <p>
-                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer</a> as a Web Developer. I was previously working at <a href="https://www.hashtag-interactive.com" target="_blank">Hashtag Interactive</a> as the Senior Full Stack Developer where I have built a large web application (Qwerk) based on the company's interest. I develop web applications, WordPress websites, EDMs, and microsites. Check out my work below.
+                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer</a> as a Web Developer. I was previously working at <a href="https://www.hashtag-interactive.com" target="_blank">Hashtag Interactive</a> as a Senior Full Stack Developer where I have built a large web application (Qwerk) based on the company's interest. I develop web applications, WordPress websites, EDMs, and microsites. Check out my work below.
                     </p>
                 </div>
             </div>
