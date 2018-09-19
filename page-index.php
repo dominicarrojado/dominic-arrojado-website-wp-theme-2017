@@ -119,7 +119,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://onestepaheadfoundation.sg" target="_blank" class="d-inline-block mb-3">
+                    <a href="http://osa.dominicarrojado.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-aptamil-build-your-babys-foundation-2017.jpg" alt="Aptamil: Build Your Baby's Foundation to be One Step Ahead 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
