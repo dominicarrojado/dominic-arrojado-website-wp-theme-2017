@@ -106,7 +106,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://capsulesurprisefr.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://food-republic-capsule-surprise-2017-auekvpyglf.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-food-republic-capsule-surprise-2017.jpg" alt="Food Republic: Capsule Surprise 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -119,7 +119,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://osa.dominicarrojado.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://aptamil-build-your-babys-foundation-2017-nqgruqlevj.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-aptamil-build-your-babys-foundation-2017.jpg" alt="Aptamil: Build Your Baby's Foundation to be One Step Ahead 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -145,7 +145,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://singtel-slideshow.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://singtel-event-app-slideshow-2017-uxaycjzlds.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-singtel-data-x-infinity-slideshow-2017.jpg" alt="Singtel: Data x Infinity Slideshow 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -158,7 +158,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://singtel.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://singtel-event-app-2017-znpjpqpflv.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-singtel-data-x-infinity-2017.jpg" alt="Singtel: Data x Infinity 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -171,12 +171,12 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://adac2017-slideshow.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://anti-drug-app-slideshow-2017-rfxavcjibn.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-cnb-anti-drug-abuse-campaign-slideshow-2017.jpg" alt="CNB: Anti Drug Abuse Campaign Slideshow 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            CNB: Anti Drug Abuse Campaign (2017)
+                            CNB: Anti Drug Abuse Campaign Slideshow (2017)
                         </h3>
                         <p class="text-default">
                             Slideshow of pledges from CNB: Anti Drug Abuse Campaign App to be displayed on a wide screen.
@@ -184,7 +184,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://adac2017.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://anti-drug-app-2017-hrmudpfthh.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-cnb-anti-drug-abuse-campaign-2017.jpg" alt="CNB: Anti Drug Abuse Campaign 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -210,7 +210,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://tmv.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://vday-card-2017-react-qhthsyqden.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-hashtag-interactive-to-my-valentine-2017.jpg" alt="To My Valentine 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -223,7 +223,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://cny.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://cny-fortune-teller-2017-tukrbyzsir.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-hashtag-interactive-cny-fortune-teller-2017.jpg" alt="CNY: Fortune Teller 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -236,7 +236,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="http://christmas.hashtag-interactive.com" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://hashtag-christmas-game-2016-react-xfkynmlhsp.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-hashtag-interactive-christmas-memory-game-2016.jpg" alt="Holly Jolly Memory Game 2016" class="img-fluid">
                     </a>
                     <div class="px-sm-5">

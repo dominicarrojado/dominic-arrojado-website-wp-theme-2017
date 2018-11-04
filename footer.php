@@ -13,7 +13,7 @@
             <a href="https://www.linkedin.com/in/dominic-arrojado-75ba03a9" target="_blank">
                 <i class="fa fa-linkedin-square"></i>
             </a>
-            <a href="https://github.com/mroftalp" target="_blank">
+            <a href="https://github.com/dominicarrojado" target="_blank">
                 <i class="fa fa-github"></i>
             </a>
             <a href="mailto:dominicarrojado@gmail.com">
