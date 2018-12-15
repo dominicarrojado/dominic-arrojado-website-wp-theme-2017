@@ -54,6 +54,19 @@ get_header('index'); ?>
             </p>
             <div id="homeWork" class="row justify-content-center collapsed">
                 <div class="work-item col-lg-6 mb-5">
+                    <a href="https://api.razer.com" target="_blank" class="d-inline-block mb-3">
+                        <img src="<?php echo IMG; ?>/work-razer-developer-portal-app.jpg" alt="Razer Developer Portal" class="img-fluid">
+                    </a>
+                    <div class="px-sm-5">
+                        <h3 class="font-weight-bold">
+                            Razer Developer Portal
+                        </h3>
+                        <p class="text-default">
+                            A portal for third-party developers to manage their projects using Razer ID API.
+                        </p>
+                    </div>
+                </div>
+                <div class="work-item col-lg-6 mb-5">
                     <a href="https://razerid.razer.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-razer-id-website.jpg" alt="Razer ID Website" class="img-fluid">
                     </a>
