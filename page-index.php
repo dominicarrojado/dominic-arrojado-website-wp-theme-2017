@@ -158,7 +158,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://singtel-event-app-slideshow-2017-uxaycjzlds.now.sh" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://singtel-event-app-slideshow-2017-lgxykrdcsr.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-singtel-data-x-infinity-slideshow-2017.jpg" alt="Singtel: Data x Infinity Slideshow 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -171,7 +171,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://singtel-event-app-2017-znpjpqpflv.now.sh" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://singtel-event-app-2017-gdhxomdxki.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-singtel-data-x-infinity-2017.jpg" alt="Singtel: Data x Infinity 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -184,7 +184,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://anti-drug-app-slideshow-2017-rfxavcjibn.now.sh" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://anti-drug-app-slideshow-2017-dgxfjnneej.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-cnb-anti-drug-abuse-campaign-slideshow-2017.jpg" alt="CNB: Anti Drug Abuse Campaign Slideshow 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -197,7 +197,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://anti-drug-app-2017-hrmudpfthh.now.sh" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://anti-drug-app-2017-tkxzbueqpv.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-cnb-anti-drug-abuse-campaign-2017.jpg" alt="CNB: Anti Drug Abuse Campaign 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
