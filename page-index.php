@@ -34,10 +34,10 @@ get_header('index'); ?>
             <div class="mb-4 mb-md-0">
                 <div class="panel-content text-default">
                     <p class="mb-4">
-                        My name is Dominic Arrojado, I'm a web developer. I like everything about web development. During my <a href="http://www.treston.edu.ph" target="_blank">college</a> days, I have developed a pizza delivery website, a group chat, and a school enrollment system. That's when I realized I really like building websites and web applications.
+                        My name is Dominic Arrojado, I'm a web developer specializing in both front-end & back-end development. I'm experienced in developing small to large web applications. I'm well-versed in numerous programming languages including React, Redux, Express/Node.js, Meteor, Less, PHP, JavaScript, HTML and CSS.
                     </p>
                     <p>
-                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer</a> as a Web Developer. I was previously working at <a href="https://www.hashtag-interactive.com" target="_blank">Hashtag Interactive</a> as a Senior Full Stack Developer where I have built a large web application (Qwerk) based on the company's interest. I develop web applications, WordPress websites, EDMs, and microsites. Check out my work below.
+                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer Inc.</a> as a Web Developer.
                     </p>
                 </div>
             </div>
