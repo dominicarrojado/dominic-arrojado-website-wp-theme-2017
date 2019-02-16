@@ -111,7 +111,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold text-capitalize">
-                            Maybank: FC Barcelona (2018)
+                            Maybank: FC Barcelona
                         </h3>
                         <p class="text-default">
                             Microsite for Maybank to introduce its FC Barcelona Visa Signature Card.
@@ -124,7 +124,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold text-capitalize">
-                            Food Republic: Capsule Surprise (2017)
+                            Food Republic: Capsule Surprise
                         </h3>
                         <p class="text-default">
                             A classic game for Food Republic's Wisma Atria re-opening.
@@ -137,7 +137,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Aptamil: Build Your Baby's Foundation to be One Step Ahead (2017)
+                            Aptamil: Build Your Baby's Foundation to be One Step Ahead
                         </h3>
                         <p class="text-default">
                             Campaign for Aptamil to promote the 2 key pillars of foundation: natural defences and brain development.
@@ -150,7 +150,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Kronenbourg 1664 (2017)
+                            Kronenbourg 1664
                         </h3>
                         <p class="text-default">
                             Microsite for the most sold French beer in the world and the market leader for high-end premium beers.
@@ -163,7 +163,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Singtel: Data x Infinity Slideshow (2017)
+                            Singtel: Data x Infinity Slideshow
                         </h3>
                         <p class="text-default">
                             Slideshow of images from Singtel: Data x Infinity App to be displayed on a wide screen.
@@ -176,7 +176,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Singtel: Data x Infinity (2017)
+                            Singtel: Data x Infinity
                         </h3>
                         <p class="text-default">
                             Web app for Singtel's event promoting new mobile data add-on.
@@ -189,7 +189,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            CNB: Anti Drug Abuse Campaign Slideshow (2017)
+                            CNB: Anti Drug Abuse Campaign Slideshow
                         </h3>
                         <p class="text-default">
                             Slideshow of pledges from CNB: Anti Drug Abuse Campaign App to be displayed on a wide screen.
@@ -202,7 +202,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            CNB: Anti Drug Abuse Campaign (2017)
+                            CNB: Anti Drug Abuse Campaign
                         </h3>
                         <p class="text-default">
                             Campaign that aims to raise awareness and support for the anti-drug cause in Singapore.
@@ -215,7 +215,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Hashtag Interactive (2017)
+                            Hashtag Interactive
                         </h3>
                         <p class="text-default">
                             Website for a boutique digital marketing agency that is optimised for a digital-centric world.
@@ -228,7 +228,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            To My Valentine (2017)
+                            To My Valentine
                         </h3>
                         <p class="text-default">
                             Valentine's day card app that lets you send cute e-cards to your special someone.
@@ -241,7 +241,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            CNY: Fortune Teller (2017)
+                            CNY: Fortune Teller
                         </h3>
                         <p class="text-default">
                             Quirky lil' 2017 horoscope app to see what the Year of the Rooster has in store for you.
@@ -267,7 +267,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            M1 Data Passport IV (2017)
+                            M1 Data Passport IV
                         </h3>
                         <p class="text-default">
                             HTML email template for M1 Data Passport.
@@ -280,7 +280,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            M1 Data Passport III (2017)
+                            M1 Data Passport III
                         </h3>
                         <p class="text-default">
                             HTML email template for M1 Data Passport.
@@ -293,7 +293,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            M1 Data Passport II (2017)
+                            M1 Data Passport II
                         </h3>
                         <p class="text-default">
                             HTML email template for M1 Data Passport.
@@ -306,7 +306,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            M1 Data Passport (2017)
+                            M1 Data Passport
                         </h3>
                         <p class="text-default">
                             HTML email template for M1 Data Passport.
@@ -319,7 +319,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Welcome to Hashtag! (2017)
+                            Welcome to Hashtag!
                         </h3>
                         <p class="text-default">
                             HTML email template to welcome new Hashtag Interactive clients.
@@ -332,7 +332,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA September Promo (2017)
+                            AXA September Promo
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA September promotion.
@@ -345,7 +345,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA / Singtel (2017)
+                            AXA / Singtel
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA / Singtel promotion.
@@ -358,7 +358,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA Smart Travel II (2017)
+                            AXA Smart Travel II
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA Smart Travel promotion.
@@ -371,7 +371,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA SmartHome (2017)
+                            AXA SmartHome
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA SmartHome promotion.
@@ -384,7 +384,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA Shield (2017)
+                            AXA Shield
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA Shield promotion.
@@ -397,7 +397,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA Mother's Day (2017)
+                            AXA Mother's Day
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA mother's day promotion.
@@ -410,7 +410,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            AXA Smart Travel (2017)
+                            AXA Smart Travel
                         </h3>
                         <p class="text-default">
                             HTML email template for AXA Smart Travel promotion.
