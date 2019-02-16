@@ -254,7 +254,7 @@ get_header('index'); ?>
                     </a>
                     <div class="px-sm-5">
                         <h3 class="font-weight-bold">
-                            Holly Jolly Memory Game (2016)
+                            Holly Jolly Memory Game
                         </h3>
                         <p class="text-default">
                             Simon-inspired memory game for Christmas by Hashtag Interactive.
