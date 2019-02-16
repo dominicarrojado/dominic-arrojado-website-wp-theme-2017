@@ -171,7 +171,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a href="https://singtel-event-app-2017-gdhxomdxki.now.sh" target="_blank" class="d-inline-block mb-3">
+                    <a href="https://singtel-event-app-2017-qqwkfqpjaj.now.sh" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-singtel-data-x-infinity-2017.jpg" alt="Singtel: Data x Infinity 2017" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
