@@ -80,7 +80,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a title="Not available to public yet." data-toggle="tooltip" data-placement="top" class="d-inline-block mb-3">
+                    <a href="https://www.justqwerk.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-qwerk-website.jpg" alt="Qwerk Website" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
@@ -93,7 +93,7 @@ get_header('index'); ?>
                     </div>
                 </div>
                 <div class="work-item col-lg-6 mb-5">
-                    <a title="Not available to public yet." data-toggle="tooltip" data-placement="top" class="d-inline-block mb-3">
+                    <a href="https://www.justqwerk.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-qwerk-app.jpg" alt="Qwerk" class="img-fluid">
                     </a>
                     <div class="px-sm-5">
