@@ -54,6 +54,19 @@ get_header('index'); ?>
             </p>
             <div id="homeWork" class="row justify-content-center collapsed">
                 <div class="work-item col-lg-6 mb-5">
+                    <a href="https://id.razer.com" target="_blank" class="d-inline-block mb-3">
+                        <img src="<?php echo IMG; ?>/work-razer-id-website-react.jpg" alt="Razer ID Website" class="img-fluid">
+                    </a>
+                    <div class="px-sm-5">
+                        <h3 class="font-weight-bold">
+                            Web Centric Razer ID
+                        </h3>
+                        <p class="text-default">
+                            Profile management and authentication service tool for all Razer services. Built for web, desktop and mobile.
+                        </p>
+                    </div>
+                </div>
+                <div class="work-item col-lg-6 mb-5">
                     <a href="https://api.razer.com" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-razer-developer-portal-app.jpg" alt="Razer Developer Portal" class="img-fluid">
                     </a>
