@@ -37,7 +37,7 @@ get_header('index'); ?>
                         My name is Dominic Arrojado, I'm a web developer specializing in both front-end & back-end development. I'm experienced in developing small to large web applications. I'm well-versed in numerous programming languages including React, Redux, Express/Node.js, Meteor, Less, PHP, JavaScript, HTML and CSS.
                     </p>
                     <p>
-                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer Inc.</a> as a Web Developer.
+                        I'm currently working at <a href="https://www.razer.com" target="_blank">Razer Inc.</a> as a Senior Software Engineer.
                     </p>
                 </div>
             </div>
