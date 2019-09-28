@@ -47,12 +47,25 @@ get_header('index'); ?>
     <section class="home-work px-1 py-5 bg-gray">
         <div class="container py-md-5 text-center">
             <h2 class="panel-title mb-3 font-weight-bold text-capitalize">
-                My work
+                My projects
             </h2>
             <p class="panel-content mb-5 text-default">
                 A bunch of things I've done so far.
             </p>
             <div id="homeWork" class="row justify-content-center collapsed">
+                <div class="work-item col-lg-6 mb-5">
+                    <a href="https://www.razer.com/streamer-companion-app" target="_blank" class="d-inline-block mb-3">
+                        <img src="<?php echo IMG; ?>/work-razer-streamer-companion-app.jpg" alt="Razer Streamer Companion App" class="img-fluid">
+                    </a>
+                    <div class="px-sm-5">
+                        <h3 class="font-weight-bold">
+                            Razer Streamer Companion App
+                        </h3>
+                        <p class="text-default">
+                            Web-based desktop application where you can create unique audience interactions with supported Razer hardware.
+                        </p>
+                    </div>
+                </div>
                 <div class="work-item col-lg-6 mb-5">
                     <a href="https://www.razer.com/7.1-surround-sound" target="_blank" class="d-inline-block mb-3">
                         <img src="<?php echo IMG; ?>/work-razer-7-1-surround-sound.jpg" alt="Razer 7.1 Surround Sound" class="img-fluid">
